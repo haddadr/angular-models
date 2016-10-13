@@ -1,0 +1,37 @@
+{
+  "name": "angular-models",
+  "version": "1.0.0",
+  "homepage": "https://github.com/haddadr/angular-models",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "lodash": "^4.16.4"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.0",
+    "lodash": "^4.16.4"
+  },
+  "appPath": "app",
+  "moduleName": "angularModelsApp",
+  "description": "angular module to set multiple models for any component",
+  "main": "angular-models.js",
+  "keywords": [
+    "angular",
+    "angular-models",
+    "multiple",
+    "models",
+    "ngModels",
+    "ng-models"
+  ],
+  "authors": [
+    "Haddad Raouf"
+  ],
+  "license": "http://opensource.org/licenses/MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
